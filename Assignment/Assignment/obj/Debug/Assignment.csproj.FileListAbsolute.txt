@@ -1,0 +1,11 @@
+D:\C# Friday\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\C# Friday\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\C# Friday\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\C# Friday\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+D:\C# Friday\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+D:\C# Friday\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+D:\C# Friday\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\C# Friday\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\C# Friday\Assignment\Assignment\obj\Debug\Assignment.pdb
+D:\C# Friday\Assignment\Assignment\obj\Debug\Assignment.Form2.resources
+D:\C# Friday\Assignment\Assignment\obj\Debug\Assignment.numTotalCoin.resources
